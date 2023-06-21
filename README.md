@@ -1,0 +1,1 @@
+# ChickenDiseaseClass_projext
